@@ -1,0 +1,13 @@
+@import "./variables";
+
+//components
+@import "./components/custom-header", "./components/image-upload", "./components/profile-card",
+    "./components/profile-form", "./components/footer", "./components/major-card", "./components/majors",
+    "./components/bank-card", "./components/employee-card", "./components/cards", "./components/salary-card";
+
+// pages
+
+@import "./pages/login", "./pages/register", "./pages/profile", "./pages/about-us", "./pages/bank-accounts",
+    "./pages/search-on-employee", "./pages/company-profile";
+
+@import "./public";

@@ -1,0 +1,155 @@
+{
+  "CardsBank": {
+    "description": "Auto imported from components/Cards/Bank.vue"
+  },
+  "CardsEmployee": {
+    "description": "Auto imported from components/Cards/Employee.vue"
+  },
+  "CardsJob": {
+    "description": "Auto imported from components/Cards/Job.vue"
+  },
+  "CardsJobDetails": {
+    "description": "Auto imported from components/Cards/JobDetails.vue"
+  },
+  "CardsJobDetailsWatch": {
+    "description": "Auto imported from components/Cards/JobDetailsWatch.vue"
+  },
+  "CardsMajor": {
+    "description": "Auto imported from components/Cards/Major.vue"
+  },
+  "CardsMajorsReports": {
+    "description": "Auto imported from components/Cards/MajorsReports.vue"
+  },
+  "CardsMessage": {
+    "description": "Auto imported from components/Cards/Message.vue"
+  },
+  "CardsSalary": {
+    "description": "Auto imported from components/Cards/Salary.vue"
+  },
+  "CardsSubscribe": {
+    "description": "Auto imported from components/Cards/Subscribe.vue"
+  },
+  "CompanyRegisterForm": {
+    "description": "Auto imported from components/CompanyRegisterForm/index.vue"
+  },
+  "CustomHeader": {
+    "description": "Auto imported from components/CustomHeader/index.vue"
+  },
+  "FormGroup": {
+    "description": "Auto imported from components/FormGroup/index.vue"
+  },
+  "GoogleMaps": {
+    "description": "Auto imported from components/GoogleMaps/index.vue"
+  },
+  "ImageUpload": {
+    "description": "Auto imported from components/ImageUpload/index.vue"
+  },
+  "Loader": {
+    "description": "Auto imported from components/Loader/index.vue"
+  },
+  "Majors": {
+    "description": "Auto imported from components/Majors/index.vue"
+  },
+  "MyJob": {
+    "description": "Auto imported from components/MyJob/index.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar/index.vue"
+  },
+  "ProfileCard": {
+    "description": "Auto imported from components/Profile/card.vue"
+  },
+  "ProfileContacts": {
+    "description": "Auto imported from components/Profile/contacts.vue"
+  },
+  "ProfileExperience": {
+    "description": "Auto imported from components/Profile/experience.vue"
+  },
+  "ProfileJobRequired": {
+    "description": "Auto imported from components/Profile/job_required.vue"
+  },
+  "ProfileMemberships": {
+    "description": "Auto imported from components/Profile/memberships.vue"
+  },
+  "ProfilePersonalInformation": {
+    "description": "Auto imported from components/Profile/personal_information.vue"
+  },
+  "ProfileQualifications": {
+    "description": "Auto imported from components/Profile/qualifications.vue"
+  },
+  "ProfileSkills": {
+    "description": "Auto imported from components/Profile/skills.vue"
+  },
+  "ProfileSubMajors": {
+    "description": "Auto imported from components/Profile/sub_majors.vue"
+  },
+  "ProfileTrainingCourses": {
+    "description": "Auto imported from components/Profile/training_courses.vue"
+  },
+  "Queries": {
+    "description": "Auto imported from components/Queries/index.vue"
+  },
+  "RegisterForm": {
+    "description": "Auto imported from components/RegisterForm/index.vue"
+  },
+  "RelatedBlogs": {
+    "description": "Auto imported from components/RelatedBlogs/index.vue"
+  },
+  "RelatedNews": {
+    "description": "Auto imported from components/RelatedNews/index.vue"
+  },
+  "ResetPassword": {
+    "description": "Auto imported from components/ResetPassword/index.vue"
+  },
+  "SubscribeJob": {
+    "description": "Auto imported from components/SubscribeJob/index.vue"
+  },
+  "FileUpload": {
+    "description": "Auto imported from components/fileUpload/index.vue"
+  },
+  "NewImageUpload": {
+    "description": "Auto imported from components/newImageUpload/index.vue"
+  },
+  "FiltersHomeForm": {
+    "description": "Auto imported from components/Filters/Home/Form.vue"
+  },
+  "FiltersHome": {
+    "description": "Auto imported from components/Filters/Home/index.vue"
+  },
+  "FiltersJob": {
+    "description": "Auto imported from components/Filters/Job/index.vue"
+  },
+  "FiltersMajorslevel": {
+    "description": "Auto imported from components/Filters/Majorslevel/index.vue"
+  },
+  "FiltersEmployee": {
+    "description": "Auto imported from components/Filters/employee/index.vue"
+  },
+  "HomeAgents": {
+    "description": "Auto imported from components/Home/Agents/index.vue"
+  },
+  "HomeCompanies": {
+    "description": "Auto imported from components/Home/Companies/index.vue"
+  },
+  "HomeCompany": {
+    "description": "Auto imported from components/Home/Company/index.vue"
+  },
+  "HomeEmploymentRole": {
+    "description": "Auto imported from components/Home/EmploymentRole/index.vue"
+  },
+  "HomeViews": {
+    "description": "Auto imported from components/Home/Views/index.vue"
+  },
+  "LayoutFooter": {
+    "description": "Auto imported from components/Layout/Footer/index.vue"
+  },
+  "LayoutHeader": {
+    "description": "Auto imported from components/Layout/Header/index.vue"
+  },
+  "HomeCompanyActiveJobs": {
+    "description": "Auto imported from components/Home/Company/ActiveJobs/index.vue"
+  },
+  "HomeCompanyExpiredJobs": {
+    "description": "Auto imported from components/Home/Company/ExpiredJobs/index.vue"
+  }
+}

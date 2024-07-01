@@ -1,0 +1,47 @@
+.footer {
+  min-height: 400px;
+  //   background: transparent url('.././images/footer.svg') no-repeat;
+  background-color: #030c22 !important;
+  background: transparent url('.././images/mask.svg');
+  padding: 50px 0;
+  &__logo {
+    @media only screen and (max-width: 767px) {
+      text-align: center;
+    }
+  }
+  &__title {
+    color: #fff;
+  }
+  &__text {
+    letter-spacing: -0.19px;
+    color: #fff;
+    line-height: 2;
+  }
+  &__links-container {
+    @media only screen and (min-width: 768px) {
+      width: 250px;
+    }
+    @media only screen and (max-width: 767px) {
+      text-align: center;
+    }
+    margin: auto;
+  }
+  &__row {
+    background-color: #ccc;
+    height: 1px;
+  }
+  &__bottom-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    @media only screen and (max-width: 767px) {
+      text-align: center;
+    }
+  }
+  &__social {
+    @media only screen and (max-width: 767px) {
+      margin: auto;
+    }
+  }
+}

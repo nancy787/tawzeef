@@ -1,0 +1,159 @@
+
+> Tawzeef@1.0.0 start /home/bebaan/tawzeef
+> nuxt start
+
+
+ WARN  sass-loader@7.3.1 is installed but ^10.1.1 is expected
+
+ℹ Listening on: http://localhost:3000/
+
+> Tawzeef@1.0.0 start /home/bebaan/tawzeef
+> nuxt start
+
+
+ WARN  sass-loader@7.3.1 is installed but ^10.1.1 is expected
+
+ℹ Listening on: http://localhost:3000/
+
+> Tawzeef@1.0.0 start /home/bebaan/tawzeef
+> nuxt start
+
+
+ WARN  sass-loader@7.3.1 is installed but ^10.1.1 is expected
+
+ℹ Listening on: http://localhost:3000/
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/messages/index.vue:9:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/messages/index.vue:9:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/messages/index.vue:9:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/messages/index.vue:9:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/salaries/index.vue:5:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/messages/index.vue:9:0)
+
+
+ ERROR  Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/messages/index.vue:9:0)
+
+Cannot read property 'error' of undefined
+
+  at server.js:8872:36
+  at server.js:7562:56
+  at runMicrotasks (<anonymous>)
+  at processTicksAndRejections (internal/process/task_queues.js:95:5)
+  at async asyncData (pages/find-jobs/index.js:2668:19)
+
+> Tawzeef@1.0.0 start /home/bebaan/tawzeef
+> nuxt start
+
+
+ WARN  sass-loader@7.3.1 is installed but ^10.1.1 is expected
+
+ℹ Listening on: http://localhost:3000/

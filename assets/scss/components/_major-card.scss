@@ -1,0 +1,32 @@
+.major-card {
+  min-height: 300px;
+  transition: 0.3s all ease-in-out;
+  &__title {
+    // padding: 0 !important;
+    height: 220px;
+    position: relative;
+  }
+  &__img {
+    max-width: 100%;
+    height: 100%;
+  }
+  &__tips {
+    color: #a1a1a1;
+  }
+  &__hint {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 143px;
+    height: 55px;
+    background: $secondary;
+    color: #fff;
+    border-radius: 12px 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  &:hover {
+    background-color: $light-blue !important;
+  }
+}

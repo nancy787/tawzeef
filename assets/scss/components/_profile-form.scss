@@ -1,0 +1,13 @@
+.profile-form {
+  min-height: 100vh;
+  &__sub-title {
+    font-size: 18px;
+    width: 647px;
+    margin: auto;
+  }
+  &__item {
+    border-radius: 8px !important;
+    background-color: $light-blue !important;
+    height: 48px !important;
+  }
+}

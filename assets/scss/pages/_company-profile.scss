@@ -1,0 +1,20 @@
+.company-profile {
+    min-height: 100vh;
+    &__wrapper {
+        min-height: 100vh;
+        padding: 100px 0;
+    }
+    &__avatar {
+        position: absolute;
+        width: 150px;
+        height: 150px !important;
+        left: 50%;
+
+        transform: translate(-50%, -50%);
+        z-index: 2;
+    }
+    &__image-wrapper {
+        position: relative;
+        margin-bottom: 50px;
+    }
+}

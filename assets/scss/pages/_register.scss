@@ -1,0 +1,32 @@
+.register {
+  min-height: 100vh;
+  &__right-side {
+    background: transparent url('.././images/header.png') no-repeat;
+    background-color: $primary;
+    background-size: cover;
+    background-position: center top;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    &__title {
+      font-family: $font-bold;
+      color: #fff;
+      font-size: 28px;
+    }
+    &__sub-title {
+      font-family: $font-medium;
+      letter-spacing: -0.26px;
+      color: #ffffff;
+      opacity: 0.85;
+      font-size: 18px;
+    }
+  }
+  &__left-side {
+    &__notes {
+      color: $secondary;
+      margin: 20px 0;
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Tawzeef",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.2",
+    "core-js": "^3.6.5",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-vue": "^7.9.0",
+    "nanoid": "^2.1.11",
+    "nuxt": "^2.14.6",
+    "nuxt-i18n": "^6.15.3",
+    "swiper": "^6.5.8",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-js-modal": "^2.0.1",
+    "vue-meta": "^2.4.0",
+    "vue-toasted": "^1.1.28",
+    "vue-verification-code-input": "^1.0.0",
+    "vue2-editor": "^2.10.3",
+    "vue2-google-maps": "^0.10.7",
+    "vuelidate": "^0.7.6",
+    "vuelidate-error-extractor": "^2.4.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^6.0.0",
+    "@nuxtjs/eslint-module": "^3.0.2",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.24.0",
+    "eslint-plugin-nuxt": "^2.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.1.0"
+  }
+}

@@ -1,0 +1,47 @@
+.bank-accounts {
+  position: relative;
+
+  &__salary {
+    @media only screen and (max-width: 767px) {
+      text-align: center;
+    }
+  }
+  &__wrapper {
+    padding: 50px;
+    margin: 100px 0;
+    // min-height: 50vh;
+    background: transparent url('.././images/header.png') no-repeat;
+    background-size: cover;
+    background-position: center top;
+    border-radius: 12px;
+    opacity: 0.75;
+    @media only screen and (max-width: 767px) {
+      padding: 20px;
+    }
+    &--slider {
+      // height: 400px;
+      // padding: 20px;
+      // background: rgba(#000C22, 0.5);
+      background: rgba(#fff, 0.5) 0% 0% no-repeat padding-box;
+      border-radius: 12px;
+      // opacity: 1;
+      position: relative;
+      backdrop-filter: blur(7px);
+      -webkit-backdrop-filter: blur(7px);
+      &__title {
+        // margin-bottom: 50px;
+        padding: 20px;
+      }
+    }
+  }
+}
+.swiper-button {
+  position: absolute !important;
+  z-index: 5;
+  top: 40%;
+  border-radius: 50%;
+  box-shadow: 0px 10px 20px rgb(0 0 0 / 10%);
+  .v-btn {
+    background-color: #fff !important;
+  }
+}

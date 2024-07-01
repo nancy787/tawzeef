@@ -1,0 +1,19 @@
+.majors {
+  min-height: 50vh;
+  .swiper-button {
+    position: absolute !important;
+    z-index: 5;
+    top: 50%;
+    background-color: #fff !important;
+    border-radius: 50%;
+    // &--prev {
+    //   left: 0;
+    // }
+  }
+  img {
+    // box-shadow: 0px 10px 20px #0000001a;
+    margin: 5px;
+    border-radius: 10px;
+    max-width: 100% !important;
+  }
+}

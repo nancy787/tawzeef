@@ -1,0 +1,20 @@
+.bank-card {
+  height: 135px;
+  background-color: $light-blue !important;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  &__image {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  &__title {
+    font-size: 18px;
+    font-family: $font-bold;
+  }
+  &__sub-title {
+    font-size: 17px;
+    color: #000c22;
+  }
+}

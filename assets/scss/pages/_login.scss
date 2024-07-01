@@ -1,0 +1,34 @@
+.login {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  &__header {
+    margin-bottom: 50px;
+  }
+  &__title {
+    color: #fff;
+    font-family: $font-bold;
+    font-size: 45px;
+    @media (max-width: 767px) {
+      font-size: 25px;
+    }
+  }
+
+  &__sub-title {
+    text-align: center;
+    font-family: $font-medium;
+    letter-spacing: -0.28px;
+    color: #ffffff;
+    opacity: 0.85;
+    font-size: 20px;
+  }
+
+  &__remember-me {
+    label {
+      color: #fff !important;
+    }
+  }
+  span {
+    font-family: $font-bold;
+  }
+}

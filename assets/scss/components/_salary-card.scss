@@ -1,0 +1,25 @@
+.salary-card {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  border-left: 0.5px solid #d2d9e2;
+  &__right {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    &--title {
+      font-family: $font-bold;
+    }
+    &--subtitle {
+      span {
+        &:first-of-type {
+          font-size: 25px;
+          font-family: $font-bold;
+        }
+        &:last-of-type {
+          color: #000c22;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.search-on-employee {
+  padding-top: 80px;
+  min-height: 100vh;
+  &__filter-button {
+    position: fixed !important;
+    z-index: 5;
+    background-color: $primary;
+    left: 25px !important;
+    bottom: 25px !important;
+    box-shadow: 0 3px 10px #444;
+  }
+}
